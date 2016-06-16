@@ -1,0 +1,3 @@
+[submodule "themes/solar"]
+	path = themes/solar
+	url = git@github.com:wildducktheories/solar-theme-ghost.git
